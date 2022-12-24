@@ -6,10 +6,10 @@ I mostly code websites using HTML, CSS, Bootstrap and PHP. I also know Python th
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
 ### Frontend Langauges
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://github.com/ParentIsNil/ParentIsNil/raw/main/html.svg)](https://forthebadge.com)
+[![forthebadge](https://github.com/ParentIsNil/ParentIsNil/raw/main/css.svg)](https://forthebadge.com)
 
 ### Backend Langauges
-
+[![forthebadge](https://github.com/ParentIsNil/ParentIsNil/raw/main/php.svg)](https://forthebadge.com)
 
 
