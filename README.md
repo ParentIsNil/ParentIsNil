@@ -1,4 +1,5 @@
 ### Here to make code to archive ROBLOX, and to just archive in general!
+https://forthebadge.com/images/badges/0-percent-optimized.svg
 
 <!--
 **ParentIsNil/ParentIsNil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
