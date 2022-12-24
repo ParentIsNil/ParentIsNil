@@ -5,6 +5,9 @@ I mostly code websites using HTML, CSS, Bootstrap and PHP. I also know Python th
 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 
+### General Programming Langauges
+[![forthebadge](https://github.com/ParentIsNil/ParentIsNil/raw/main/pyt-hon.svg)](https://forthebadge.com)
+
 ### Frontend Langauges
 [![forthebadge](https://github.com/ParentIsNil/ParentIsNil/raw/main/html.svg)](https://forthebadge.com)
 [![forthebadge](https://github.com/ParentIsNil/ParentIsNil/raw/main/css.svg)](https://forthebadge.com)
