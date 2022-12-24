@@ -12,4 +12,8 @@ I mostly code websites using HTML, CSS, Bootstrap and PHP. I also know Python th
 ### Backend Langauges
 [![forthebadge](https://github.com/ParentIsNil/ParentIsNil/raw/main/php.svg)](https://forthebadge.com)
 
+## If you are intrested in old ROBLOX you may want to check out these projects I made.
+- [Download 2006 - early 2008 ROBLOX games with a ID](https://github.com/ParentIsNil/ROBLOX-Game-Downloader)
+- [Download all 2006 - early 2008 ROBLOX games off a user ID](https://github.com/ParentIsNil/ROBLOX-Game-Downloader)
+
 
