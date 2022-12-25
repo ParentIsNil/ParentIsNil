@@ -18,6 +18,6 @@ I mostly code websites using HTML, CSS, Bootstrap and PHP. I also know Python th
 
 ## If you are intrested in old ROBLOX you may want to check out these projects I made. <img src="https://cdn.discordapp.com/attachments/893072348415152131/1031760828250214401/bunchashit.png" width="85" height="85" />
 - [Download 2006 - early 2008 ROBLOX games with a ID](https://github.com/ParentIsNil/ROBLOX-Game-Downloader)
-- [Download all 2006 - early 2008 ROBLOX games off a user ID](https://github.com/ParentIsNil/ROBLOX-Game-Downloader)
+- [Download all 2006 - early 2008 ROBLOX games off a user ID](https://github.com/ParentIsNil/ROBLOX-User-Games-Grabber)
 
 
